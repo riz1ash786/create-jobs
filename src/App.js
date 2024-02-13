@@ -3,7 +3,7 @@ import Contact from "./components/Contact";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
-import Projects from "./components/Projects";
+import Services from "./components/Services";
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       <Home />
       <About />
       <Aim />
-      <Projects />
+      <Services />
       <Contact />
     </div>
   );
