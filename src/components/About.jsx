@@ -1,59 +1,35 @@
 import React from 'react';
-import profilePic from '../assets/profilePic.png';
-import education from '../assets/education.png';
-import goals from '../assets/goals.png';
+
+import HTML from '../assets/html.png';
+import CSS from '../assets/css.png';
+import JavaScript from '../assets/javascript.png';
+import ReactImg from '../assets/react.png';
+import Node from '../assets/node.png';
+import Graphql from '../assets/graphql.png';
+import GitHub from '../assets/github.png';
+import Tailwind from '../assets/tailwind.png';
+import Mongo from '../assets/mongo.png';
 
 const About = () => {
   return (
-    <div name='about' className='w-full md:h-screen bg-gradient-to-r from-[#071c05] to-[#6b8869] text-gray-300'>
-      <div className='flex flex-col justify-center items-center w-full h-full'>
-        <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
-          {/* move text right on expand over small */}
-          <div className='sm:text-right pb-8 pl-4'>
-            <p className='text-4xl font-bold inline border-b-4 border-[#dbb434]'>
-              About
-            </p>
-          </div>
-          </div>
-          <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-            <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Rizwan, nice to meet you. Please take a look around.</p>
-            </div>
-            <div>
-              <p>I have always  had an interest in technology development which consequently 
-                  has led me to pursue a career as a Full Stack Software Developer. I am interested in exploring 
-                  how websites work and the intricate details of creating interactive 
-                  and immersive web pages.</p>
-            </div>
-          </div>
-          <div className='max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
-           <div>
-            <div
-            style={{ backgroundImage: `url(${profilePic})` }}
-            className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
-            </div>
-            <p className='text-center'>I am a graduate of the University of Birmingham Coding Bootcamp. 
-                I have the skills to build a website from the ground up, utilising a multitude of technical tools 
-                and languages to write testable, syntax-efficient code.</p>
-            </div>
-            <div>
-              <div
-            style={{ backgroundImage: `url(${education})` }}
-            className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
-            </div>
-              <p className='text-center'>University of Birmingham <br /> Coding Bootcamp Graduate <br /> Grade A+
-                <br />
-                <br />
-                Coventry University <br /> B.A. (Hons) Business Management<br /> Grade 2:1</p>
-            </div>
-            <div>
-            <div
-            style={{ backgroundImage: `url(${goals})` }}
-            className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
-            </div>
-            <p className='text-center'>I am ambitious, creative, hardworking and keen to demonstrate my skills in a new and exciting role.
-             My goal is to work within an organisation where I can further build and expand upon my technical skill set.</p>
-            </div>
+    <div  name='about' className='w-full h-screen bg-gradient-to-r from-[#071c05] to-[#6b8869] text-gray-300'>
+      {/* Container */}
+      <div className='text-center max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
+          <div>
+              <p className='text-4xl font-bold inline border-b-4 border-[#dbb434] '>WHO WE ARE</p>
+              <p className='font-bold py-4'>At Create it Recruitment, we have developed a simplified approach to recruitment which, we know you’ll love!</p>
+              <br />
+              <p className='py-4'>You’re in the market to hire experts, you have a million and one things to do and before you know it you’re inundated with calls from recruiters who get in touch just to pitch a generalised service and then follow up with attached terms of 30% fee on hire. </p>
+              <br />
+              <p className='py-4'>Well, we’re not like that. </p>
+              <br />
+              <p className='py-4'>We pride ourselves on offering a simple yet efficient service; after all our ethos is to make the recruitment process easy! With combined recruitment experience of over 15 years we base our values on our proven track record which is backed with testimonials from not only our existing clients but candidates too.</p>
+              <br />
+              <p className='py-4'>We can assist in all your recruitment needs and offer a complete service from start to finish. We also strive to the challenge of recruiting for those ‘hard to fill’ roles, whether it be a niche skillset you’re seeking or individuals who are experienced in a new cutting-edge technology.</p>
+              <br />
+              <p className=' py-4'>We are constantly engaging with the market and staying close to what’s going on which, helps us build relationships with both active and passive candidates. Most importantly for you it puts us in a position to represent individuals for the roles that you are hiring. Our candidate base includes individuals that other recruiters have not kept in touch with; they are not always on job boards or applying to adverts. </p>
+              <br />
+              <p className='py-4'>At Create IT Recruitment we understand your needs, we source relevant candidates and help manage the recruitment process so you can concentrate on your day job! </p>
           </div>
       </div>
     </div>

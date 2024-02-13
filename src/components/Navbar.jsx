@@ -17,7 +17,7 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-gradient-to-r from-[#071c05] to-[#6b8869] text-[#dbb434]'>
       <div>
-        <img src={Logo} alt='Logo Image' style={{ width: '50px' }} />
+        <img src={Logo} alt='Logo Image' style={{ width: '65px' }} />
       </div>
 
       {/* menu */}
@@ -30,12 +30,12 @@ const Navbar = () => {
         </li>
         <li>
           <Link to='about' smooth={true} duration={500}>
-            About
+            About Us
           </Link>
         </li>
         <li>
-          <Link to='skills' smooth={true} duration={500}>
-            Skills
+          <Link to='aim' smooth={true} duration={500}>
+            Our Aim
           </Link>
         </li>
         <li>
