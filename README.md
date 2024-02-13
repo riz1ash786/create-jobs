@@ -1,70 +1,132 @@
-# Getting Started with Create React App
+# React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of contents
 
-## Available Scripts
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies and Languages](#technologies-and-languages)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [License](#license)
+- [Screenshots](#screenshots)
+- [Deployed application](#deployed-application)
+- [GitHub repository](#github-repository)
+- [Questions](#questions)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Using React I have created a personal portfolio to display some examples of my work to potential employers and clients. This application is fully functional and desktop/mobile friendly.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Start with cloning this repository link on to your local machine:
 
-### `npm run build`
+```
+$ git clone https://github.com/riz1ash786/react-portfolio
+$ cd react-portfolio
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To install the required dependencies and set up the application, run:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+$ npm i
+$ npm run build
+$ npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## Usage
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This application can be deployed locally or if you wish to deploy this application on Github Pages then please use the link provided in the 'Deployed Application' section listed below.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Technologies and Languages
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+</div>
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riz1ash786&layout=compact&theme=vision-friendly-dark)](https://github.com/riz1ash786/github-readme-stats)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contributing
 
-### Code Splitting
+If you are interested in contributing to this project then please feel free to get in touch with me via the contact information listed at the bottom of this README. Thank you.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## Tests
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+No tests have been specified for this application as of yet.
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## License
 
-### Advanced Configuration
+![License (ISC](https://img.shields.io/badge/License-ISC-brightgreen?style=plastic&logo=appveyor.svg) <br />
+This application utilises the [ISC License](https://opensource.org/licenses/ISC "License Link")
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## Screenshots
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Homepage](src/assets/home.png)
 
-### `npm run build` fails to minify
+![Project Samples](src/assets/projects.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Contact Form](src/assets/contact.png)
+
+![Mobile Version](src/assets/mobileversion.png)
+
+---
+
+## Deployed Application
+
+<div id="badges">
+  <a href="https://riz1ash786.github.io/react-portfolio//">
+    <img src="https://img.shields.io/badge/Github Pages-React Portfolio-blue?style=for-the-badge&logo=GITHUBPAGES&logoColor=white" alt="GitHub Pages Link"/>
+  </a>
+</div>
+
+---
+
+## GitHub Repository
+
+<div id="badges">
+  <a href="https://github.com/riz1ash786/react-portfolio">
+    <img src="https://img.shields.io/badge/Repository-React Portfolio-blue?style=for-the-badge&logo=GITHUB&logoColor=white" alt="Repository Link"/>
+  </a>
+</div>
+
+---
+
+## Questions
+
+If you have any additional questions, then please feel free to get in touch via my github or email details linked below. Thank you.
+
+<div id="badges">
+  <a href="https://github.com/riz1ash786">
+    <img src="https://img.shields.io/badge/profile-RIZWAN ASHRAF-blue?style=for-the-badge&logo=GITHUB&logoColor=white" alt="Rizwan Github"/>
+  </a> <br />
+<div id="badges">
+  <a href="mailto:riz1ash786@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-RIZWAN ASHRAF-blue?style=for-the-badge&logo=GOOGLE&logoColor=white" alt="Rizwan Github"/>
+  </a>
+</div>
