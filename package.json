@@ -1,7 +1,7 @@
 {
-  "name": "react-portfolio",
+  "name": "create-jobs",
   "version": "1.0.0",
-  "description": "my personal portfolio showcasing some examples of the work that I have completed to date",
+  "description": "Using React I have created a company page to for an IT recruitment business. This application is fully functional and desktop/mobile friendly.",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/riz1ash786/react-portfolio.git"
+    "url": "git+https://github.com/riz1ash786/create-jobs.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/riz1ash786/react-portfolio/issues"
+    "url": "https://github.com/riz1ash786/create-jobs/issues"
   },
-  "homepage": "https://riz1ash786.github.io/react-portfolio/",
+  "homepage": "https://riz1ash786.github.io/create-jobs",
   "dependencies": {
     "autoprefixer": "^10.4.2",
     "gh-pages": "^4.0.0",

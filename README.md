@@ -28,7 +28,7 @@ Start with cloning this repository link on to your local machine:
 
 ```
 $ git clone https://github.com/riz1ash786/create-jobs
-$ cd react-portfolio
+$ cd create-jobs
 ```
 
 To install the required dependencies and set up the application, run:
