@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import {
   FaBars,
   FaTimes,
-  FaGithub,
   FaLinkedin,
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
@@ -60,7 +59,7 @@ const Navbar = () => {
         className={
           !nav
             ? 'hidden'
-            : 'absolute top-0 left-0 w-full h-screen bg-gradient-to-r from-[#061a05] to-[#0b2f0a] flex flex-col justify-center items-center'
+            : 'absolute top-0 left-0 w-full h-screen bg-gradient-to-r from-[#050d1c] to-[#0d8bb9] flex flex-col justify-center items-center'
         }
       >
         <li className='py-6 text-4xl'>
@@ -72,19 +71,19 @@ const Navbar = () => {
         <li className='py-6 text-4xl'>
           {' '}
           <Link onClick={handleClick} to='about' smooth={true} duration={500}>
-            About
+            About Us
           </Link>
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link onClick={handleClick} to='skills' smooth={true} duration={500}>
-            Skills
+          <Link onClick={handleClick} to='aim' smooth={true} duration={500}>
+            Our Aim
           </Link>
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link onClick={handleClick} to='projects' smooth={true} duration={500}>
-            Projects
+          <Link onClick={handleClick} to='services' smooth={true} duration={500}>
+            Services
           </Link>
         </li>
         <li className='py-6 text-4xl'>

@@ -6,7 +6,7 @@ import calculator from '../assets/calculator.png';
 const Services = () => {
   return (
     <div name='services' className='w-full md:h-screen bg-gradient-to-r from-[#050d1c] to-[#0d8bb9] text-gray-300'>
-      <div className='flex flex-col justify-center items-center w-full h-full'>
+      <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
           {/* move text right on expand over small */}
           <div className='pb-8 pl-4'>

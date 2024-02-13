@@ -18,7 +18,7 @@
 
 ## Description
 
-Using React I have created a personal portfolio to display some examples of my work to potential employers and clients. This application is fully functional and desktop/mobile friendly.
+Using React I have created a company page to for an IT recruitment business. This application is fully functional and desktop/mobile friendly.
 
 ---
 
@@ -27,7 +27,7 @@ Using React I have created a personal portfolio to display some examples of my w
 Start with cloning this repository link on to your local machine:
 
 ```
-$ git clone https://github.com/riz1ash786/react-portfolio
+$ git clone https://github.com/riz1ash786/create-jobs
 $ cd react-portfolio
 ```
 
@@ -89,19 +89,23 @@ This application utilises the [ISC License](https://opensource.org/licenses/ISC 
 
 ![Homepage](src/assets/home.png)
 
-![Project Samples](src/assets/projects.png)
+![About Us](src/assets/about.png)
+
+![Our Aim](src/assets/aim.png)
+
+![Services](src/assets/services.png)
 
 ![Contact Form](src/assets/contact.png)
 
-![Mobile Version](src/assets/mobileversion.png)
+![Mobile Version](src/assets/mobile.png)
 
 ---
 
 ## Deployed Application
 
 <div id="badges">
-  <a href="https://riz1ash786.github.io/react-portfolio//">
-    <img src="https://img.shields.io/badge/Github Pages-React Portfolio-blue?style=for-the-badge&logo=GITHUBPAGES&logoColor=white" alt="GitHub Pages Link"/>
+  <a href="https://riz1ash786.github.io/create-jobs/">
+    <img src="https://img.shields.io/badge/Github Pages-Create Jobs-blue?style=for-the-badge&logo=GITHUBPAGES&logoColor=white" alt="GitHub Pages Link"/>
   </a>
 </div>
 
@@ -110,8 +114,8 @@ This application utilises the [ISC License](https://opensource.org/licenses/ISC 
 ## GitHub Repository
 
 <div id="badges">
-  <a href="https://github.com/riz1ash786/react-portfolio">
-    <img src="https://img.shields.io/badge/Repository-React Portfolio-blue?style=for-the-badge&logo=GITHUB&logoColor=white" alt="Repository Link"/>
+  <a href="https://github.com/riz1ash786/create-jobs">
+    <img src="https://img.shields.io/badge/Repository-Create Jobs-blue?style=for-the-badge&logo=GITHUB&logoColor=white" alt="Repository Link"/>
   </a>
 </div>
 

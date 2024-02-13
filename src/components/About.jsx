@@ -1,23 +1,13 @@
 import React from 'react';
 
-import HTML from '../assets/html.png';
-import CSS from '../assets/css.png';
-import JavaScript from '../assets/javascript.png';
-import ReactImg from '../assets/react.png';
-import Node from '../assets/node.png';
-import Graphql from '../assets/graphql.png';
-import GitHub from '../assets/github.png';
-import Tailwind from '../assets/tailwind.png';
-import Mongo from '../assets/mongo.png';
-
 const About = () => {
   return (
     <div  name='about' className='w-full h-screen bg-gradient-to-r from-[#050d1c] to-[#0d8bb9] text-gray-300'>
       {/* Container */}
       <div className='text-center max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div>
-              <p className='text-4xl font-bold inline border-b-4 border-[#dbb434]'>WHO WE ARE</p>
-              <p className='font-bold py-4'>At Create IT Recruitment, we have developed a simplified approach to recruitment which, we know you’ll love!</p>
+              <p className='text-4xl font-bold inline border-b-4 border-[#dbb434]'>WHO WE ARE</p><br />
+              <p className='font-bold p-4'>At Create IT Recruitment, we have developed a simplified approach to recruitment which, we know you’ll love!</p>
               <br />
               <p className='py-4'>You’re in the market to hire experts, you have a million and one things to do and before you know it you’re inundated with calls from recruiters who get in touch just to pitch a generalised service and then follow up with attached terms of 30% fee on hire. </p>
               <br />
