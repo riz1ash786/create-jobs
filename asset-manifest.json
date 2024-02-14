@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/create-jobs/static/css/main.d2c2cdca.css",
-    "main.js": "/create-jobs/static/js/main.027614d6.js",
+    "main.css": "/create-jobs/static/css/main.02d0999d.css",
+    "main.js": "/create-jobs/static/js/main.eea4f1cb.js",
     "static/js/787.bc68d2f7.chunk.js": "/create-jobs/static/js/787.bc68d2f7.chunk.js",
     "static/media/calculator.png": "/create-jobs/static/media/calculator.a6eb20496147ecd0404f.png",
     "static/media/screening.png": "/create-jobs/static/media/screening.668ef9bc898c01aa1e16.png",
@@ -11,12 +11,12 @@
     "static/media/lifecycle.png": "/create-jobs/static/media/lifecycle.d48096d58ac870532ebf.png",
     "static/media/logo.png": "/create-jobs/static/media/logo.67a6f4ee4e9d97b518f2.png",
     "index.html": "/create-jobs/index.html",
-    "main.d2c2cdca.css.map": "/create-jobs/static/css/main.d2c2cdca.css.map",
-    "main.027614d6.js.map": "/create-jobs/static/js/main.027614d6.js.map",
+    "main.02d0999d.css.map": "/create-jobs/static/css/main.02d0999d.css.map",
+    "main.eea4f1cb.js.map": "/create-jobs/static/js/main.eea4f1cb.js.map",
     "787.bc68d2f7.chunk.js.map": "/create-jobs/static/js/787.bc68d2f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2c2cdca.css",
-    "static/js/main.027614d6.js"
+    "static/css/main.02d0999d.css",
+    "static/js/main.eea4f1cb.js"
   ]
 }
