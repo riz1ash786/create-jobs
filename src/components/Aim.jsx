@@ -20,7 +20,7 @@ const Aim = () => {
               <p>At Create IT we aim to fulfil the recruitment needs of our clients seeking the best technical staff.</p>
             </div>
             <div>
-              <p>We move away from ineffective and dated methods of recruiting. Our aim is to assist our clients and candidates with their company and career goals and we do this with effective and efficient recruitment methods. We are here to ease the strain caused to our clients when recruiting for staff and minimise the stress of finding a new role for our expert candidates!</p>
+              <p>We move away from ineffective and dated methods of recruiting. Our aim is to assist our clients and candidates with their company and career goals. We do this with effective and efficient recruitment methods. <br /> We are here to ease the strain caused to our clients when recruiting for staff and minimise the stress of finding a new role for our expert candidates!</p>
             </div>
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
@@ -29,15 +29,15 @@ const Aim = () => {
             style={{ backgroundImage: `url(${career})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='text-center text-[#dbb434]'>CONTRACT & PERMANENT RECRUITMENT</p> <br />
-                <br /> <p className='text-center'>We specialise in contract (interim / temp / fixed term), statement-of-work and permanent recruitment. We offer services to cover all aspects of our clients hiring needs including RPO packages. We understand how important it can be finding quality candidates at short notice and we think you will be impressed with our existing and growing poole of candidates.</p>
+            <p className='text-center text-[#dbb434]'>CONTRACT / PERMANENT</p> <br />
+                <br /> <p className='text-center'>We specialise in contract (interim / temp / fixed term), statement-of-work and permanent recruitment. We offer services to cover all aspects of our clients hiring needs including RPO packages. We understand how important it can be finding quality candidates at short notice and we think you will be impressed with our existing and growing pool of candidates.</p>
             </div>
             <div>
               <div
             style={{ backgroundImage: `url(${interview})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='text-center text-[#dbb434]'>INTERVIEW PREPERATION</p> <br />
+            <p className='text-center text-[#dbb434]'>INTERVIEW PREPARATION</p> <br />
                 <br /><p className='text-center'>We provide our candidates with helpful tips to prepare them for each interview stage. We will support and guide you throughout, ensuring you are provided with all the information that you need to feel confident and comfortable with the interview process.</p>
             </div>
             <div>

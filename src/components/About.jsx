@@ -9,11 +9,11 @@ const About = () => {
               <p className='text-4xl font-bold inline border-b-4 border-[#dbb434]'>WHO WE ARE</p><br />
               <p className='font-bold p-4'>At Create IT Recruitment, we have developed a simplified approach to recruitment which, we know you’ll love!</p>
               <br />
-              <p className='py-4'>You’re in the market to hire experts, you have a million and one things to do and before you know it you’re inundated with calls from recruiters who get in touch just to pitch a generalised service and then follow up with attached terms of 30% fee on hire. </p>
+              <p className='py-4'>You’re in the market to hire experts, you have a million and one things to do and before you know it, you’re inundated with calls from recruiters who get in touch just to pitch a generalised service and then follow up with attached terms of 30% fee on hire. </p>
               <br />
               <p className='py-4'>Well, we’re not like that. </p>
               <br />
-              <p className='py-4'>We pride ourselves on offering a simple yet efficient service; after all our ethos is to make the recruitment process easy! With combined recruitment experience of over 15 years we base our values on our proven track record which is backed with testimonials from not only our existing clients but candidates too.</p>
+              <p className='py-4'>We pride ourselves on offering a simple yet efficient service; after all our ethos is to make the recruitment process easy! With industry experience of over 17 years, we base our values on our proven track record which is backed with testimonials from not only our existing clients but candidates too.</p>
               <br />
               <p className='py-4'>We can assist in all your recruitment needs and offer a complete service from start to finish. We also strive to the challenge of recruiting for those ‘hard to fill’ roles, whether it be a niche skillset you’re seeking or individuals who are experienced in a new cutting-edge technology.</p>
               <br />

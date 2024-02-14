@@ -7,7 +7,6 @@ const Home = () => {
     <div name='home' className='w-full h-screen bg-gradient-to-r from-[#050d1c] to-[#0d8bb9]'>
       {/* Container */}
       <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
-        
         <h1 className='text-4xl sm:text-9xl font-bold text-[#ccd6f6]'>
           CREATE
         </h1>
