@@ -13,7 +13,7 @@ const Home = () => {
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
         IT Recruitment
         </h2>
-        <i className='pt-4 text-[#dbb434]'>Technology Recruitment Experts - Create IT, Create jobs!</i>
+        <i className='pt-4 text-[#dbb434]'>Technology Recruitment Experts - Create IT, Create Jobs!</i>
         <p className='text-[#8892b0] max-w-[700px]'>
         We are experienced recruiters of tech staff and offer a professional service with a personable touch. Create IT Recruitment breaks away from the cumbersome reigns of traditional recruitment. The technology industry is constantly evolving and moving forwards, we feel that the recruitment industry should be no different.
         </p>

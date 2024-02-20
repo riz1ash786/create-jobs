@@ -24,22 +24,6 @@
     border-radius: 50%
 }
 
-.content-div {
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-position: top;
-    height: 250px;
-}
-
-.content-div:hover {
-    background-image: linear-gradient(
-        to right,
-        hsla(85, 32%, 37%, 0.8),
-        rgba(237, 255, 225, 0.8)
-    )!important;
-}
-
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 .anton-regular {
