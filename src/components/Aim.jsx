@@ -20,7 +20,7 @@ const Aim = () => {
               <p>At Create IT we aim to fulfil the recruitment needs of our clients seeking the best technical staff.</p>
             </div>
             <div>
-              <p>We move away from ineffective and dated methods of recruiting. Our aim is to assist our clients and candidates with their company and career goals. We do this with effective and efficient recruitment methods. <br /> We are here to ease the strain caused to our clients when recruiting for staff and minimise the stress of finding a new role for our expert candidates!</p>
+              <p>Our aim is to assist our clients and candidates with their company and career goals. We do this with effective and efficient recruitment methods. <br /> We are here to ease the strain caused to our clients when recruiting for staff and minimise the stress of finding a new role for our expert candidates!</p>
             </div>
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
