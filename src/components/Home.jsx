@@ -15,7 +15,8 @@ const Home = () => {
         </h2>
         <i className='pt-4 text-[#dbb434]'>Technology Recruitment Experts - Create IT, Create Jobs!</i>
         <p className='text-[#8892b0] max-w-[700px]'>
-        We are experienced recruiters of tech staff and offer a professional service with a personable touch. Create IT Recruitment breaks away from the cumbersome reigns of traditional recruitment. The technology industry is constantly evolving and moving forwards, we feel that the recruitment industry should be no different.
+       
+        Welcome to Create IT Recruitment, where innovation meets talent in the dynamic world of technology. Our mission is to revolutionise the tech recruitment experience, offering a personalised approach that goes beyond traditional methods. At Create IT, we're not just shaping careers; we're building the future of tech together.
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#dbb434] hover:border-[#dbb434] hover:text-[#000000]'>

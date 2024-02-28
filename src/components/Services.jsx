@@ -23,8 +23,7 @@ const Services = () => {
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
             <p className='text-center text-[#dbb434]'>REFERRAL SCHEME</p> <br />
-                <br /> <p className='text-center'>We reward those who successfully recommend a friend or work colleague in to one of the roles we are recruiting for.
-We are happy to offer a referral bonus and pay up to £500 for every successfully placement we make from a recommended candidate that you have referred to us.</p>
+                <br /> <p className='text-center'>We offer a referral bonus to those who successfully recommend a friend or colleague for one of our open positions. For every successful placement made from a recommended candidate you've referred, we're pleased to pay up to £500 as a token of our appreciation.</p>
             </div>
             <div>
               <div

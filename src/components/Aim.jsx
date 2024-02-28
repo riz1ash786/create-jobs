@@ -30,7 +30,7 @@ const Aim = () => {
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
             <p className='text-center text-[#dbb434]'>CONTRACT / PERMANENT</p> <br />
-                <br /> <p className='text-center'>We specialise in contract (interim / temp / fixed term), statement-of-work and permanent recruitment. We offer services to cover all aspects of our clients hiring needs including RPO packages. We understand how important it can be finding quality candidates at short notice and we think you will be impressed with our existing and growing pool of candidates.</p>
+                <br /> <p className='text-center'>We specialise in contract (interim / temp / fixed-term), statement-of-work, and permanent recruitment, providing comprehensive services to fulfill all our clients' hiring needs, including RPO packages.</p>
             </div>
             <div>
               <div
@@ -38,7 +38,7 @@ const Aim = () => {
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
             <p className='text-center text-[#dbb434]'>INTERVIEW PREPARATION</p> <br />
-                <br /><p className='text-center'>We provide our candidates with helpful tips to prepare them for each interview stage. We will support and guide you throughout, ensuring you are provided with all the information that you need to feel confident and comfortable with the interview process.</p>
+                <br /><p className='text-center'>We offer our candidates valuable tips to equip them for every stage of the interview process. Our dedicated support ensures you're guided and informed at every step, empowering you to approach interviews with confidence and ease.</p>
             </div>
             <div>
             <div
@@ -46,7 +46,7 @@ const Aim = () => {
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
             <p className='text-center text-[#dbb434]'>CANDIDATE SCREENING</p> <br />
-                <br /><p className='text-center'>Here at Create IT Recruitment we focus on sourcing the best-in-class candidates for rewarding positions. Our recruitment process includes screening of candidates to ensure that not only are they the right technical fit for your role but meet the person specification criteria too.</p>
+                <br /><p className='text-center'>Create IT focuses on sourcing the best-in-class candidates for rewarding positions. Our recruitment process involves thorough screening to ensure candidates possess both the technical expertise required for the role but also align with the person specification</p>
             </div>
           </div>
       </div>
