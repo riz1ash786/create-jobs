@@ -5,6 +5,7 @@ import {
   FaLinkedin,
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
+import { HiOutlineLockClosed } from "react-icons/hi";
 import Logo from '../assets/logo.png';
 import { Link } from 'react-scroll';
 
@@ -113,16 +114,22 @@ const Navbar = () => {
               className='flex justify-between items-center w-full text-gray-300'
               href='https://www.linkedin.com/company/create-web-recruitment/'
             >
-              Linkedin <FaLinkedin size={30} />
+              Follow Us<FaLinkedin size={30} />
             </a>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#b7972d]'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#2b7421]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
               href='mailto:hello@createjobs.co.uk'
             >
               Email Us <HiOutlineMail size={30} />
             </a>
+          </li>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#462a70]'>
+            <button
+              className='flex justify-between items-center w-full text-gray-300'> <Link to='privacy' smooth={true} duration={500}>Privacy</Link>
+               <HiOutlineLockClosed size={30} />
+            </button>
           </li>
         </ul>
       </div>
