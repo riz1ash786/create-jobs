@@ -6,7 +6,7 @@ const About = () => {
       {/* Container */}
       <div className='text-center max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div>
-              <p className='text-4xl font-bold inline border-b-4 border-[#dbb434]'>WHO WE ARE</p>
+              <p className='text-4xl font-bold inline border-b-4 border-[#dbb434]'>Who We Are</p>
               <p className='font-bold pt-8'>At Create IT Recruitment, we have developed a simplified approach to recruitment which, we know you’ll love!</p>
               <p className='py-4'>You’re in the market to hire experts, you have a million and one things to do and before you know it, you’re inundated with calls from recruiters who get in touch just to pitch a generalised service and then follow up with attached terms of 30% fee on hire. </p>
               <p className='py-4'>Well, we’re not like that. </p>
