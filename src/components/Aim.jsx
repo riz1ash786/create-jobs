@@ -17,7 +17,7 @@ const Aim = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>At Create IT we aim to fulfil the recruitment needs of our clients seeking the best technical staff.</p>
+              <p>Create Jobs aims to fulfil the recruitment needs of our clients seeking the best technical staff.</p>
             </div>
             <div>
               <p>Our aim is to assist our clients and candidates with their company and career goals. We do this with effective and efficient recruitment methods. <br /> We are here to ease the strain caused to our clients when recruiting for staff and minimise the stress of finding a new role for our expert candidates!</p>
@@ -46,7 +46,7 @@ const Aim = () => {
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
             <p className='text-center text-[#dbb434]'>CANDIDATE SCREENING</p> <br />
-                <br /><p className='text-center'>Create IT focuses on sourcing the best-in-class candidates for rewarding positions. Our recruitment process involves thorough screening to ensure candidates possess both the technical expertise required for the role but also align with the person specification</p>
+                <br /><p className='text-center'>Create Jobs focuses on sourcing the best-in-class candidates for rewarding positions. Our recruitment process involves thorough screening to ensure candidates possess both the technical expertise required for the role but also align with the person specification</p>
             </div>
           </div>
       </div>

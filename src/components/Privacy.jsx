@@ -9,7 +9,7 @@ const Privacy = () => {
       <div className='text-center max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div>
               <p className='text-4xl font-bold inline border-b-4 border-[#dbb434]'>Privacy</p>
-              <p className='pt-8 text-left'>Create IT is committed to protecting the privacy and security of the personal information of our clients, candidates, and website visitors. This Privacy Statement outlines how we collect, use, disclose, and protect your information.</p>
+              <p className='pt-8 text-left'>Create Jobs is committed to protecting the privacy and security of the personal information of our clients, candidates, and website visitors. This Privacy Statement outlines how we collect, use, disclose, and protect your information.</p>
               <p className='font-bold pt-8 text-left'> Information We Collect: </p>
               <p className='text-left'> We may collect various types of information from you, including:</p>
               <p className='pt-8 text-left'> 
@@ -17,7 +17,6 @@ const Privacy = () => {
                   <li>Personal information such as your name, contact details, employment history, and qualifications.</li>
                   <li>Information provided in your resume, cover letter, or during interviews.</li>
                   <li>Information about your preferences and interests related to job opportunities.</li>
-                  <li>Technical information such as IP addresses, browser type, and device information collected through cookies and similar technologies when you visit our website.</li>
                 </ul>
               </p>
               <p className='font-bold pt-8 text-left'> How We Use Your Information:</p>
@@ -36,8 +35,7 @@ const Privacy = () => {
                 <ul type="lower-roman" style={{ listStyleType: 'circle' }}>
                   <li>Prospective employers or clients for recruitment purposes.</li>
                   <li>To communicate with you about job openings, interview opportunities, and other relevant updates.</li>
-                  <li>To customize our services and improve your experience.</li>
-                  <li>Technical information such as IP addresses, browser type, and device information collected through cookies and similar technologies when you visit our website.</li>
+                  <li>To customise our services and improve your experience.</li>
                 </ul>
               </p>
               <p className='font-bold pt-8 text-left'> Your Rights and Choices:</p>
