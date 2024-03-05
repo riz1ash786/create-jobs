@@ -24,3 +24,11 @@
     border-radius: 50%
 }
 
+.content-div {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-position: top;
+    height: 180px;
+}
+

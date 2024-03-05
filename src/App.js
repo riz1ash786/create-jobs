@@ -3,7 +3,8 @@ import Contact from "./components/Contact";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
-import Services from "./components/Services";
+import Candidates from "./components/Candidates";
+import Companies from "./components/Companies";
 import Privacy from "./components/Privacy";
 
 function App() {
@@ -13,7 +14,8 @@ function App() {
       <Home />
       <About />
       <Aim />
-      <Services />
+      <Candidates />
+      <Companies />
       <Privacy />
       <Contact />
     </div>
