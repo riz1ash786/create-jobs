@@ -18,12 +18,11 @@ const Home = () => {
         {/* <ReactTyped
           className='text-4xl sm:text-5xl font-bold text-[#8892b0]'
             strings={[
-            " Learn",
-            " Build",
-            " Engage",]}
+            " Technology",
+            " Recruitment",]}
       typeSpeed={80}
       backSpeed={60}
-      loop /> */}
+      loop/> */}
 
         {/* <ReactTyped
           className='pt-4 text-[#dbb434]'
