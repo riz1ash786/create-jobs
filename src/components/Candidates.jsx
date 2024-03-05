@@ -1,5 +1,5 @@
 import React from 'react';
-import referral from '../assets/referral.png';
+import support from '../assets/support.png';
 import listen from '../assets/listen.png';
 import interview from '../assets/interview.png';
 
@@ -36,7 +36,7 @@ const Candidates = () => {
             </div>
             <div>
             <div
-            style={{ backgroundImage: `url(${referral})` }}
+            style={{ backgroundImage: `url(${support})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
             <p className='pt-8 text-center text-[#dbb434]'>SUPPORT</p> <p className='pt-2 text-center'>We offer our candidates valuable tips, our dedicated support ensures you're guided and informed at every step, empowering you to approach the recruitment process with confidence.</p>
