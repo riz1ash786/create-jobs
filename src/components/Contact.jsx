@@ -6,21 +6,25 @@ const Contact = () => {
         <form method='POST' action="https://getform.io/f/xboMzBeg" className='flex flex-col max-w-[600px] w-full'>
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-[#dbb434] text-gray-300'>Contact</p>
+                <p className='text-4xl font-bold inline border-b-4 border-[#dbb434] text-gray-300'>Contact Us</p>
+                <p className='text-gray-300 py-4'>Submit your enquiries in the form below or contact us directly;</p>
+
             </div>
+            
             <div className='pb-8 max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-2  text-gray-300'>
             <div className='sm:text-center'>
             <div className='sm:text-center'>
               <p>Rizwan</p>
-              <p className='hover:text-[#dbb434]'><a href='mailto:rizwan@createjobs.co.uk'>Email: rizwan@createjobs.co.uk</a></p>
+              <p>Email: <a className='hover:text-[#dbb434]' href='rizwan@createjobs.co.uk'>rizwan@createjobs.co.uk</a></p>
               <p>Mobile: +44 7976 257860</p>
-              <p className='hover:text-[#dbb434]'><a href='https://www.linkedin.com/in/riz1ash786/'>LinkedIn: Connect with Rizwan</a></p>
+              <p>LinkedIn: <a className='hover:text-[#dbb434]' href='https://www.linkedin.com/in/riz1ash786/'>Connect with Rizwan</a></p>
             </div>
             </div>
             <div className='sm:text-center'>
               <p>Business Enquiries</p>
-              <p className='hover:text-[#dbb434]'><a href='mailto:hello@createjobs.co.uk'>Email: hello@createjobs.co.uk</a></p>
+              <p>Email: <a className='hover:text-[#dbb434]' href='hello@createjobs.co.uk'>hello@createjobs.co.uk</a></p>
               <p>Whatsapp: +44 7976 257860</p>
-              <p className='hover:text-[#dbb434]'><a href='https://www.linkedin.com/company/create-jobs-recruitment/'>LinkedIn: Connect with Create Jobs</a></p>
+              <p>LinkedIn: <a className='hover:text-[#dbb434]' href='https://www.linkedin.com/company/create-jobs-recruitment/'>Connect with Create Jobs</a></p>
             </div>
           </div>
             <input className='bg-[#e3f7ff] p-2' type="text" placeholder='Name' name='name' />
