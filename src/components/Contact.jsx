@@ -8,19 +8,18 @@ const Contact = () => {
                 <p className='text-4xl font-bold inline border-b-4 border-[#dbb434] text-gray-300'>Contact Us</p>
                 <p className='text-gray-300 pt-4'>Submit your enquiries in the form below or contact us directly;</p>
             </div>
-            
             <div className='pb-8 max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-2  text-gray-300'>
             <div className='sm:text-center'>
             <div className='sm:text-center'>
               <p>Rizwan</p>
-              <p>Email: <a className='hover:text-[#dbb434]' href='rizwan@createjobs.co.uk'>rizwan@createjobs.co.uk</a></p>
+              <p>Email: <a className='hover:text-[#dbb434]' href='mailto:rizwan@createjobs.co.uk'>rizwan@createjobs.co.uk</a></p>
               <p>Mobile: +44 7976 257860</p>
               <p>LinkedIn: <a className='hover:text-[#dbb434]' href='https://www.linkedin.com/in/riz1ash786/'>Connect with Rizwan</a></p>
             </div>
             </div>
             <div className='sm:text-center'>
               <p>Business Enquiries</p>
-              <p>Email: <a className='hover:text-[#dbb434]' href='hello@createjobs.co.uk'>hello@createjobs.co.uk</a></p>
+              <p>Email: <a className='hover:text-[#dbb434]' href='mailto:hello@createjobs.co.uk'>hello@createjobs.co.uk</a></p>
               <p>Whatsapp: +44 7976 257860</p>
               <p>LinkedIn: <a className='hover:text-[#dbb434]' href='https://www.linkedin.com/company/create-jobs-recruitment/'>Connect with Create Jobs</a></p>
             </div>
