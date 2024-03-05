@@ -5,9 +5,9 @@ const Contact = () => {
     <div name='contact' className='w-full h-screen bg-gradient-to-r from-[#050d1c] to-[#0d8bb9] flex justify-center items-center p-4'>
         <form method='POST' action="https://getform.io/f/xboMzBeg" className='flex flex-col max-w-[600px] w-full'>
             <div className='pb-8'>
-                <p className='text-4xl font-bold inline border-b-4 border-[#dbb434] text-gray-300'>Contact Us</p>
+                <p className='text-4xl font-bold inline border-b-4 border-[#dbb434] text-gray-300'>Contact</p>
             </div>
-            <div className='pb-8 max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4  text-gray-300'>
+            <div className='pb-8 max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-2  text-gray-300'>
             <div className='sm:text-center'>
             <div className='sm:text-center'>
               <p>Rizwan</p>
