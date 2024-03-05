@@ -1,7 +1,7 @@
 import React from 'react';
 import { HiArrowNarrowRight } from 'react-icons/hi';
 import { Link } from 'react-scroll';
-import { ReactTyped } from "react-typed";
+// import { ReactTyped } from "react-typed";
 
 const Home = () => {
   return (
