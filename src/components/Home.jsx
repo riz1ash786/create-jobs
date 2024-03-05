@@ -1,7 +1,7 @@
 import React from 'react';
 import { HiArrowNarrowRight } from 'react-icons/hi';
 import { Link } from 'react-scroll';
-// import { ReactTyped } from "react-typed";
+import { ReactTyped } from "react-typed";
 
 const Home = () => {
   return (
@@ -11,18 +11,22 @@ const Home = () => {
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>
           CREATE JOBS
         </h1>
-        <h2 className='text-4xl sm:text-6xl font-bold text-[#8892b0]'>
+        {/* <h2 className='text-4xl sm:text-6xl font-bold text-[#8892b0]'>
         Recruitment
-        </h2>
+        </h2> */}
 
-        {/* <ReactTyped
+        <ReactTyped
           className='text-4xl sm:text-5xl font-bold text-[#8892b0]'
             strings={[
-            " Technology",
-            " Recruitment",]}
+              " Recruitment",
+              " Technology",
+            " Corporate",
+            " Permanent",
+            " Contract",
+            ]}
       typeSpeed={80}
       backSpeed={60}
-      loop/> */}
+      loop/>
 
         {/* <ReactTyped
           className='pt-4 text-[#dbb434]'
