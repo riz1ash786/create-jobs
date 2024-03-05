@@ -14,14 +14,14 @@ const Contact = () => {
               <p>Rizwan Ashraf</p>
               <p>Email: <a className='hover:text-[#dbb434]' href='mailto:rizwan@createjobs.co.uk'>rizwan@createjobs.co.uk</a></p>
               <p>Mobile: +44 7976 257860</p>
-              <p><a className='pt-4 flex justify-center items-center text-gray-300 hover:text-[#dbb434]'
+              <p><a className='pt-2 flex justify-center items-center text-gray-300 hover:text-[#dbb434]'
               href='https://www.linkedin.com/in/riz1ash786/'><FaLinkedin size={30} /></a></p>
             </div>
             <div className='sm:text-center items-center'>
               <p>Business Enquiries</p>
               <p>Email: <a className='hover:text-[#dbb434]' href='mailto:hello@createjobs.co.uk'>hello@createjobs.co.uk</a></p>
               <p>Whatsapp: +44 7976 257860</p>
-              <p><a className='pt-4 flex justify-center items-center text-gray-300 hover:text-[#dbb434]'
+              <p><a className='pt-2 flex justify-center items-center text-gray-300 hover:text-[#dbb434]'
               href='https://www.linkedin.com/company/create-jobs-recruitment/'><FaLinkedin size={30} /></a></p>
             </div>
           </div>

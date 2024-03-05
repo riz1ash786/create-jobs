@@ -23,30 +23,27 @@ const Aim = () => {
               <p>Our aim is to assist our clients and candidates with their company and career goals. We do this with effective and efficient recruitment methods. <br /> We are here to ease the strain caused to our clients when recruiting for staff and minimise the stress of finding a new role for our expert candidates!</p>
             </div>
           </div>
-          <div className='max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
+          <div className='pt-8 max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
            <div>
             <div
             style={{ backgroundImage: `url(${career})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='text-center text-[#dbb434]'>CONTRACT / PERMANENT</p> <br />
-                <br /> <p className='text-center'>We specialise in contract (interim / temp / fixed-term), statement-of-work, and permanent recruitment, providing comprehensive services to fulfill all our clients' hiring needs, including RPO packages.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>CONTRACT / PERMANENT</p> <p className=' pt-2 text-center'>We specialise in contract (interim / temp / fixed-term), statement-of-work, and permanent recruitment, providing comprehensive services to fulfill all our clients' hiring needs, including RPO packages.</p>
             </div>
             <div>
               <div
             style={{ backgroundImage: `url(${interview})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='text-center text-[#dbb434]'>INTERVIEW PREPARATION</p> <br />
-                <br /><p className='text-center'>We offer our candidates valuable tips to equip them for every stage of the interview process. Our dedicated support ensures you're guided and informed at every step, empowering you to approach interviews with confidence and ease.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>INTERVIEW PREPARATION</p><p className='pt-2 text-center'>We offer our candidates valuable tips to equip them for every stage of the interview process. Our dedicated support ensures you're guided and informed at every step, empowering you to approach interviews with confidence and ease.</p>
             </div>
             <div>
             <div
             style={{ backgroundImage: `url(${screening})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='text-center text-[#dbb434]'>CANDIDATE SCREENING</p> <br />
-                <br /><p className='text-center'>Create Jobs focuses on sourcing the best-in-class candidates for rewarding positions. Our recruitment process involves thorough screening to ensure candidates possess both the technical expertise required for the role but also align with the person specification</p>
+            <p className='pt-8 text-center text-[#dbb434]'>CANDIDATE SCREENING</p><p className='pt-2 text-center'>Create Jobs focuses on sourcing the best-in-class candidates for rewarding positions. Our recruitment process involves thorough screening to ensure candidates possess both the technical expertise required for the role but also align with the person specification</p>
             </div>
           </div>
       </div>
