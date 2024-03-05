@@ -29,21 +29,21 @@ const Aim = () => {
             style={{ backgroundImage: `url(${rocket})` }}
             className='shadow-lg shadow-[#040c16] mx-auto content-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>CREATE MISSION</p> <p className=' pt-2 text-center'>We specialise in contract (interim / temp / fixed-term), statement-of-work, and permanent recruitment, providing comprehensive services to fulfill all our clients' hiring needs, including RPO packages.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>CREATE MISSION</p> <p className=' pt-2 text-center'>To connect the best talent with rewarding opportunities.</p>
             </div>
             <div>
               <div
             style={{ backgroundImage: `url(${vision})` }}
             className='shadow-lg shadow-[#040c16] mx-auto content-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>CREATE VISION</p><p className='pt-2 text-center'>We offer our candidates valuable tips to equip them for every stage of the interview process. Our dedicated support ensures you're guided and informed at every step, empowering you to approach interviews with confidence and ease.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>CREATE VISION</p><p className='pt-2 text-center'>Bridging talent to opportunity, shaping tomorrow's success.</p>
             </div>
             <div>
             <div
             style={{ backgroundImage: `url(${pillars})` }}
             className='shadow-lg shadow-[#040c16] mx-auto content-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>CREATE VALUES</p><p className='pt-2 text-center'>Create Jobs focuses on sourcing the best-in-class candidates for rewarding positions. Our recruitment process involves thorough screening to ensure candidates possess both the right technical and cultural expertise.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>CREATE VALUES</p><p className='pt-2 text-center'>To provide Integrity, Transparency and Collaboration.</p>
             </div>
           </div>
       </div>

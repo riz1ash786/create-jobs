@@ -17,7 +17,7 @@ const Companies = () => {
           </div>
           </div>
           <div> 
-            <p className='text-gray-300 py-4 text-center'>We help companies attract the best technical talent</p>
+            <p className='text-gray-300 py-6 text-center'>We help companies attract the best technical talent</p>
             </div>
             <div className='pt-8 max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
             <div>
@@ -25,21 +25,21 @@ const Companies = () => {
             style={{ backgroundImage: `url(${lifecycle})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>RECRUITMENT LIFECYCLE</p><p className='pt-2 text-center'>We offer a full recruitment lifecycle service to both our clients and candidates. It is important to us that we support all parties throughout the recruitment process. We also follow up with an after-placement care service to ensure we offer the best service possible.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>LEARN</p><p className='pt-2 text-center'>Throughout your company's journey and culture, from inception to where you are now and where you aim to be, we strive to comprehend every aspect. Exceptional recruiters enhance brands, and we're dedicated to advocating for yours.</p>
             </div>
             <div>
             <div
             style={{ backgroundImage: `url(${calculator})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>OUR PAYMENT TERMS</p><p className='pt-2 text-center'>We ask the clients that we work with for 30-day payment terms for the services undertaken and placements that we make.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>ENGAGE</p><p className='pt-2 text-center'>We'll ensure that your proposition is communicated effectively, reaching the appropriate audience at the perfect moment. You'll exclusively encounter candidates who meet your technical and cultural requirements.</p>
             </div>
             <div>
             <div
             style={{ backgroundImage: `url(${screening})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>CANDIDATE SCREENING</p><p className='pt-2 text-center'>Create Jobs focuses on sourcing the best-in-class candidates for rewarding positions. Our recruitment process involves thorough screening to ensure candidates possess both the right technical and cultural expertise.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>DELIVER</p><p className='pt-2 text-center'>There's no greater accomplishment for us than connecting individuals who significantly impact your business. New hires are your VIPs, and we're committed to being their dedicated guides.</p>
             </div>
           </div>
       </div>
