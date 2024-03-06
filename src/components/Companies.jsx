@@ -16,7 +16,7 @@ const Companies = () => {
           </div>
           </div>
           <div> 
-            <p className='text-gray-300 py-6 text-center'>We help companies attract the best technical talent.</p>
+            <p className='text-gray-300 py-6 text-center'>We work with companies to attract and retain top-tier technical talent, driving innovation and success.</p>
             </div>
             <div className='pt-8 max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
             <div>
