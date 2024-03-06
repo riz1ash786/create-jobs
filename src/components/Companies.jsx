@@ -5,7 +5,7 @@ import engage from '../assets/engage.png';
 
 const Companies = () => {
   return (
-    <div name='companies' className='w-full md:h-screen bg-gradient-to-r from-[#050d1c] to-[#0d8bb9] text-gray-300'>
+    <div name='companies' className='w-full md:h-auto bg-gradient-to-r from-[#050d1c] to-[#0d8bb9] text-gray-300'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='text-center max-w-[1000px] w-full grid gap-8'>
           {/* move text right on expand over small */}
@@ -41,6 +41,189 @@ const Companies = () => {
             <p className='pt-8 text-center text-[#dbb434]'>DELIVER</p><p className='pt-2 text-center'>There's no greater accomplishment for us than connecting individuals who significantly impact your business. Our commitment to delivering exceptional candidates ensures that our clients thrive with the right talent by their side.</p>
             </div>
           </div>
+          <div>
+              <p className='py-8 text-center'>Here are some of our candidate testimonials</p>
+          </div>
+          <div className='grid sm:grid-cols-2 md:grid-cols-4 grid-cols-2 pt-8 gap-4'>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-white tracking-wider'>
+                Solo-Traveller <br /> Full-Stack
+              </span>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-white tracking-wider'>
+                Cryptocurrency Guide <br /> Full-Stack
+              </span>
+            </div>
+          </div>
+            {/* Grid Item */}
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-white tracking-wider'>
+                Note Taker <br /> Back-end
+              </span>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-white tracking-wider'>
+                Team Profile Generator<br /> Back-end
+              </span>
+            </div>
+          </div>
+            {/* Grid Item */}
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className= 'text-white tracking-wider'>
+                Work Day Scheduler <br /> Front-end
+              </span>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-white tracking-wider'>
+                Weather Dashboard <br /> Front-end
+              </span>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className= 'text-white tracking-wider'>
+                Work Day Scheduler <br /> Front-end
+              </span>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className= 'text-white tracking-wider'>
+                Work Day Scheduler <br /> Front-end
+              </span>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className= 'text-white tracking-wider'>
+                Work Day Scheduler <br /> Front-end
+              </span>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className= 'text-white tracking-wider'>
+                Work Day Scheduler <br /> Front-end
+              </span>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className= 'text-white tracking-wider'>
+                Work Day Scheduler <br /> Front-end
+              </span>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className= 'text-white tracking-wider'>
+                Work Day Scheduler <br /> Front-end
+              </span>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className= 'text-white tracking-wider'>
+                Work Day Scheduler <br /> Front-end
+              </span>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className= 'text-white tracking-wider'>
+                Work Day Scheduler <br /> Front-end
+              </span>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className= 'text-white tracking-wider'>
+                Work Day Scheduler <br /> Front-end
+              </span>
+            </div>
+          </div>
+          <div
+            style={{ backgroundImage: `url(${balloons})` }}
+            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+          >
+            {/* Hover Effects */}
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className= 'text-white tracking-wider'>
+                Work Day Scheduler <br /> Front-end
+              </span>
+            </div>
+          </div>
+      </div>
       </div>
     </div>
   );

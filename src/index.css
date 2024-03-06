@@ -32,4 +32,18 @@
     height: 200px;
     width: 300px;
 }
-
+.testimonial-div {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-position: top;
+    height: 140px;
+    width: 200px;
+}
+.testimonial-div:hover {
+    background-image: linear-gradient(
+        to right,
+        #3a3a3a,
+        #c5c5c5
+    )!important;
+}

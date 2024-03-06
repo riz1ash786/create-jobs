@@ -4,7 +4,7 @@ import { Link } from 'react-scroll';
 
 const Privacy = () => {
   return (
-    <div  name='privacy' className='w-full h-auto bg-gradient-to-r from-[#050d1c] to-[#0d8bb9] text-gray-300'>
+    <div  name='privacy' className='w-full md:h-screen sm:h-auto bg-gradient-to-r from-[#050d1c] to-[#0d8bb9] text-gray-300'>
       {/* Container */}
       <div className='text-center max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div>
