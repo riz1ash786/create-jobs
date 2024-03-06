@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6836e209.css",
-    "main.js": "/static/js/main.e1442def.js",
+    "main.js": "/static/js/main.8599c615.js",
     "static/js/787.bc68d2f7.chunk.js": "/static/js/787.bc68d2f7.chunk.js",
     "static/media/engage.png": "/static/media/engage.f293ae555d72c5da4147.png",
     "static/media/learn.png": "/static/media/learn.009b900128679cb376d1.png",
@@ -30,11 +30,11 @@
     "static/media/monzo.png": "/static/media/monzo.467009d0b46e54932967.png",
     "index.html": "/index.html",
     "main.6836e209.css.map": "/static/css/main.6836e209.css.map",
-    "main.e1442def.js.map": "/static/js/main.e1442def.js.map",
+    "main.8599c615.js.map": "/static/js/main.8599c615.js.map",
     "787.bc68d2f7.chunk.js.map": "/static/js/787.bc68d2f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6836e209.css",
-    "static/js/main.e1442def.js"
+    "static/js/main.8599c615.js"
   ]
 }
