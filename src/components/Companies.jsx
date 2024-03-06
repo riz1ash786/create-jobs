@@ -41,202 +41,202 @@ const Companies = () => {
             style={{ backgroundImage: `url(${learn})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>LEARN</p><p className='pt-2 text-center'>Throughout your Company's journey, from inception to where you are now and where you aim to be, we strive to comprehend every aspect. Exceptional recruiters enhance brands, and we're dedicated to advocating for yours.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>LEARN</p><p className='pt-2 pb-8 text-center'>Throughout your Company's journey, from inception to where you are now and where you aim to be, we strive to comprehend every aspect. Exceptional recruiters enhance brands, and we're dedicated to advocating for yours.</p>
             </div>
             <div>
             <div
             style={{ backgroundImage: `url(${engage})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>ENGAGE</p><p className='pt-2 text-center'>We'll ensure that your requirements are communicated effectively, reaching out to the appropriate talent. You'll only engage with candidates who meet your technical and cultural requirements.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>ENGAGE</p><p className='pt-2 pb-8 text-center'>We'll ensure that your requirements are communicated effectively, reaching out to the appropriate talent. You'll only engage with candidates who meet your technical and cultural requirements.</p>
             </div>
             <div>
             <div
             style={{ backgroundImage: `url(${balloons})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>DELIVER</p><p className='pt-2 text-center'>There's no greater accomplishment for us than connecting individuals who significantly impact your business. Our commitment to delivering exceptional candidates ensures that our clients thrive with the right talent by their side.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>DELIVER</p><p className='pt-2 pb-8 text-center'>There's no greater accomplishment for us than connecting individuals who significantly impact your business. Our commitment to delivering exceptional candidates ensures that our clients thrive with the right talent by their side.</p>
             </div>
           </div>
           <div>
-              <p className='py-8 text-center'>Here are some of our candidate testimonials</p>
+              <p className='pt-8 text-center'>We're truly grateful for the kind words companies have shared about us...</p>
           </div>
-          <div className='grid sm:grid-cols-2 md:grid-cols-4 grid-cols-2 pt-8 gap-4'>
+          <div className='grid sm:grid-cols-2 md:grid-cols-4 grid-cols-2 pt-8 gap-8'>
           <div
             style={{ backgroundImage: `url(${wordpress})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-white tracking-wider'>
-              Company <br /> Testimonial
+              <span className='text-white text-sm tracking-wider'>
+              "Exceptional service, highly recommend the Create Jobs Team!" <br />Lead Developer
               </span>
             </div>
           </div>
           <div
             style={{ backgroundImage: `url(${emaar})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-white tracking-wider'>
-              Company <br /> Testimonial
+              <span className='text-white text-sm tracking-wider'>
+              "Professionalism at its best!" <br />Talent Manager
               </span>
             </div>
           </div>
             {/* Grid Item */}
           <div
             style={{ backgroundImage: `url(${slack})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-white tracking-wider'>
-              Company <br /> Testimonial
+              <span className='text-white text-sm tracking-wider'>
+              "Efficient and effective in finding top talent." <br />Senior Software Eng.
               </span>
             </div>
           </div>
           <div
             style={{ backgroundImage: `url(${emirates})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-white tracking-wider'>
-              Company<br /> Testimonial
+              <span className='text-white text-sm tracking-wider'>
+              "Rizwan always exceeds our expectations!" <br /> Delivery Manager
               </span>
             </div>
           </div>
             {/* Grid Item */}
           <div
             style={{ backgroundImage: `url(${mclaren})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className= 'text-white tracking-wider'>
-                Company <br /> Testimonial
+              <span className= 'text-white text-sm tracking-wider'>
+              "Incredibly responsive and resourceful." <br />Project Manager
               </span>
             </div>
           </div>
           <div
             style={{ backgroundImage: `url(${aramco})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-white tracking-wider'>
-              Company <br /> Testimonial
+              <span className='text-white text-sm tracking-wider'>
+              "Create Jobs truly understand our company culture." <br />HR Coordinator
               </span>
             </div>
           </div>
           <div
             style={{ backgroundImage: `url(${ring})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className= 'text-white tracking-wider'>
-              Company <br /> Testimonial
+              <span className= 'text-white text-sm tracking-wider'>
+              "Consistently delivering outstanding candidates." <br />Talent Development Team
               </span>
             </div>
           </div>
           <div
             style={{ backgroundImage: `url(${mandm})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className= 'text-white tracking-wider'>
-                Company <br /> Testimonial
+              <span className= 'text-white text-sm tracking-wider'>
+              "Quick turnaround and high-quality candidates." <br />HR Business Partner
               </span>
             </div>
           </div>
           <div
             style={{ backgroundImage: `url(${salesforce})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className= 'text-white tracking-wider'>
-                Company <br /> Testimonial
+              <span className= 'text-white text-sm tracking-wider'>
+              "Rizwan has proven to be a trusted partner in talent acquisition." <br />Product Manager
               </span>
             </div>
           </div>
           <div
             style={{ backgroundImage: `url(${microsoft})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className= 'text-white tracking-wider'>
-                Company <br /> Testimonial
+              <span className= 'text-white text-sm tracking-wider'>
+              "Rizwan worked closely to effortlessly source top-tier talent." <br />TA Specialist
               </span>
             </div>
           </div>
           <div
             style={{ backgroundImage: `url(${monzo})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className= 'text-white tracking-wider'>
-                Company <br /> Testimonial
+              <span className= 'text-white text-sm tracking-wider'>
+              "It was the first time using Create Jobs for our recruitment, it certainly won't be the last." <br />Project Manager
               </span>
             </div>
           </div>
           <div
             style={{ backgroundImage: `url(${danone})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className= 'text-white tracking-wider'>
-                Company <br /> Testimonial
+              <span className= 'text-white text-sm tracking-wider'>
+              "Create demonstrated a deep understanding of our industry." <br />Head of Data Science 
               </span>
             </div>
           </div>
           <div
             style={{ backgroundImage: `url(${zalando})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className= 'text-white tracking-wider'>
-                Company <br /> Testimonial
+              <span className= 'text-white text-sm tracking-wider'>
+              "Highly proficient in their recruitment competence during a pressurised acquisition drive " <br />Senior Architect
               </span>
             </div>
           </div>
           <div
             style={{ backgroundImage: `url(${cisco})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className= 'text-white tracking-wider'>
-              Company <br /> Testimonial
+              <span className= 'text-white text-sm tracking-wider'>
+              "Rizwan's expertise and professionalism is unmatched. Thank you!" <br />Engineering Manager
               </span>
             </div>
           </div>
           <div
             style={{ backgroundImage: `url(${aliexpress})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className= 'text-white tracking-wider'>
-              Company <br /> Testimonial
+              <span className= 'text-white text-sm tracking-wider'>
+              "Efficient, effective, and always deliver results." <br />Talent Acquisition Manager
               </span>
             </div>
           </div>
           <div
             style={{ backgroundImage: `url(${cognizant})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
+            className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
-              <span className= 'text-white tracking-wider'>
-                Company <br /> Testimonial
+              <span className= 'text-white text-sm tracking-wider'>
+              "Create have become an invaluable extension of our team." <br />Head of Data Science
               </span>
             </div>
           </div>
