@@ -67,7 +67,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className='text-white text-sm tracking-wider'>
               "Exceptional service, highly recommend the Create Jobs Team!" <br />Lead Developer
               </span>
@@ -78,7 +78,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className='text-white text-sm tracking-wider'>
               "Professionalism at its best!" <br />Talent Manager
               </span>
@@ -90,7 +90,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className='text-white text-sm tracking-wider'>
               "Efficient and effective in finding top talent." <br />Senior Software Eng.
               </span>
@@ -101,7 +101,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className='text-white text-sm tracking-wider'>
               "Rizwan always exceeds our expectations!" <br /> Delivery Manager
               </span>
@@ -113,7 +113,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className= 'text-white text-sm tracking-wider'>
               "Incredibly responsive and resourceful." <br />Project Manager
               </span>
@@ -124,7 +124,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className='text-white text-sm tracking-wider'>
               "Create Jobs truly understand our company culture." <br />HR Coordinator
               </span>
@@ -135,7 +135,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className= 'text-white text-sm tracking-wider'>
               "Consistently delivering outstanding candidates." <br />Talent Development Team
               </span>
@@ -146,7 +146,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className= 'text-white text-sm tracking-wider'>
               "Quick turnaround and high-quality candidates." <br />HR Business Partner
               </span>
@@ -157,7 +157,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className= 'text-white text-sm tracking-wider'>
               "Rizwan has proven to be a trusted partner in talent acquisition." <br />Product Manager
               </span>
@@ -168,7 +168,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className= 'text-white text-sm tracking-wider'>
               "Rizwan worked closely to effortlessly source top-tier talent." <br />TA Specialist
               </span>
@@ -179,7 +179,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className= 'text-white text-sm tracking-wider'>
               "It was the first time using Create Jobs for our recruitment, it certainly won't be the last." <br />Project Manager
               </span>
@@ -190,7 +190,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className= 'text-white text-sm tracking-wider'>
               "Create demonstrated a deep understanding of our industry." <br />Head of Data Science 
               </span>
@@ -201,7 +201,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className= 'text-white text-sm tracking-wider'>
               "Highly proficient in their recruitment competence during a pressurised acquisition drive " <br />Senior Architect
               </span>
@@ -212,7 +212,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className= 'text-white text-sm tracking-wider'>
               "Rizwan's expertise and professionalism is unmatched. Thank you!" <br />Engineering Manager
               </span>
@@ -223,7 +223,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className= 'text-white text-sm tracking-wider'>
               "Efficient, effective, and always deliver results." <br />Talent Acquisition Manager
               </span>
@@ -234,7 +234,7 @@ const Companies = () => {
             className='hover:scale-110 duration-500 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto sm:text-center testimonial-div'
           >
             {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
+            <div className='opacity-0 group-hover:opacity-100 text-center'>
               <span className= 'text-white text-sm tracking-wider'>
               "Create have become an invaluable extension of our team." <br />Head of Data Science
               </span>
