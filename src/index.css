@@ -34,16 +34,18 @@
 }
 .testimonial-div {
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 75% 55%;
     background-position: center;
-    background-position: top;
+    
+    background-color: #b3b3b3;
     height: 140px;
     width: 200px;
 }
 .testimonial-div:hover {
+    background-size: cover;
     background-image: linear-gradient(
         to right,
-        #3a3a3a,
+        #656565,
         #c5c5c5
     )!important;
 }

@@ -5,7 +5,7 @@ import interview from '../assets/interview.png';
 
 const Candidates = () => {
   return (
-    <div name='candidates' className='w-full md:h-screen bg-gradient-to-r from-[#050d1c] to-[#0d8bb9] text-gray-300'>
+    <div name='candidates' className='w-full bg-gradient-to-r from-[#050d1c] to-[#0d8bb9] text-gray-300'>
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='text-center max-w-[1000px] w-full grid gap-8'>
           {/* move text right on expand over small */}
