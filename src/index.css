@@ -36,7 +36,7 @@
     background-repeat: no-repeat;
     background-size: 75% 55%;
     background-position: center;
-    background-color: #b3b3b3;
+    background-color: #c2ced5;
     height: 140px;
     width: 200px;
 }
@@ -44,7 +44,7 @@
     background-size: cover;
     background-image: linear-gradient(
         to right,
-        #656565,
-        #c5c5c5
+        #5e7480,
+        #c2ced5
     )!important;
 }
