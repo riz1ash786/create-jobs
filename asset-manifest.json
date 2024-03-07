@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5b170110.css",
-    "main.js": "/static/js/main.51bd7687.js",
+    "main.js": "/static/js/main.3a258c7e.js",
     "static/js/787.bc68d2f7.chunk.js": "/static/js/787.bc68d2f7.chunk.js",
     "static/media/engage.png": "/static/media/engage.f293ae555d72c5da4147.png",
     "static/media/learn.png": "/static/media/learn.009b900128679cb376d1.png",
@@ -15,7 +15,7 @@
     "static/media/interview.png": "/static/media/interview.cd6464d1f9da269e217b.png",
     "static/media/danone.png": "/static/media/danone.0f0774c14d567b57cc60.png",
     "static/media/cognizant.png": "/static/media/cognizant.4fa1b6dd97fba5539c9e.png",
-    "static/media/logo.png": "/static/media/logo.91fde09e0f9377d4bfa2.png",
+    "static/media/logo.png": "/static/media/logo.8bcd052b8141f648b7df.png",
     "static/media/wordpress.png": "/static/media/wordpress.9c3464a362df8cf1163c.png",
     "static/media/zalando.png": "/static/media/zalando.5172964673e450e9aff2.png",
     "static/media/emirates.png": "/static/media/emirates.2328fab4deec52ee13ac.png",
@@ -30,11 +30,11 @@
     "static/media/monzo.png": "/static/media/monzo.467009d0b46e54932967.png",
     "index.html": "/index.html",
     "main.5b170110.css.map": "/static/css/main.5b170110.css.map",
-    "main.51bd7687.js.map": "/static/js/main.51bd7687.js.map",
+    "main.3a258c7e.js.map": "/static/js/main.3a258c7e.js.map",
     "787.bc68d2f7.chunk.js.map": "/static/js/787.bc68d2f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b170110.css",
-    "static/js/main.51bd7687.js"
+    "static/js/main.3a258c7e.js"
   ]
 }
