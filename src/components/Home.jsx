@@ -34,7 +34,7 @@ const Home = () => {
             "Technology Recruitment Experts - Creating Tomorrow's Teams Today!"]}
       typeSpeed={30} /> */}
 
-        <i className='pt-4 text-[#dbb434]'>Technology Recruitment Experts - Creating Tomorrow's Teams Today!</i>
+        <i className='pt-4 text-[#dbb434]'>International Recruitment Experts - Creating Tomorrow's Teams Today!</i>
         <p className='py-4 text-[#8892b0] max-w-[700px]'>
        
         Welcome to Create Jobs, where innovation meets talent in the dynamic world of technology. Our mission is to revolutionise the tech recruitment experience, offering a personalised approach that goes beyond traditional methods. At Create Jobs, we're not just shaping careers; we're building the future of tech together.
