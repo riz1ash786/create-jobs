@@ -6,8 +6,11 @@ import {
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { HiOutlineLockClosed } from "react-icons/hi";
+import { BsBook } from "react-icons/bs";
 import Logo from '../assets/logo.png';
 import { Link } from 'react-scroll';
+import pdf from "./brochure.pdf"
+
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -141,6 +144,12 @@ const Navbar = () => {
               className='flex justify-between items-center w-full text-gray-300'> <Link to='privacy' smooth={true} duration={500}>Privacy</Link>
                <HiOutlineLockClosed size={30} />
             </button>
+          </li>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#9c3838]'>
+          <a
+              className='flex justify-between items-center w-full text-gray-300'
+              href={pdf} download="FileName.pdf">Download Info Pack<BsBook size={40} />
+            </a>
           </li>
         </ul>
       </div>
