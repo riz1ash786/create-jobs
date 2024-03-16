@@ -138,13 +138,13 @@ const Navbar = () => {
               Email Us <HiOutlineMail size={30} />
             </a>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#462a70]'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#5c3a90]'>
             <button
               className='flex justify-between items-center w-full text-gray-300'> <Link to='privacy' smooth={true} duration={500}>Privacy</Link>
                <HiOutlineLockClosed size={30} />
             </button>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#9c3838]'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#8f2f2f]'>
           <a
               className='flex justify-between items-center w-full text-gray-300'
               href={pdf} download="Create Jobs Info Pack.pdf">Download Info Pack<BsBook size={40} />
