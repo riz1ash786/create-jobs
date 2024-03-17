@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1be9b8e7.css",
-    "main.js": "/static/js/main.8800dca9.js",
+    "main.css": "/static/css/main.4be2fbf9.css",
+    "main.js": "/static/js/main.d43dd332.js",
     "static/js/787.bc68d2f7.chunk.js": "/static/js/787.bc68d2f7.chunk.js",
     "static/media/engage.png": "/static/media/engage.f293ae555d72c5da4147.png",
     "static/media/learn.png": "/static/media/learn.009b900128679cb376d1.png",
@@ -30,12 +30,12 @@
     "static/media/cisco.png": "/static/media/cisco.c0c5479cfb1c734131f0.png",
     "static/media/monzo.png": "/static/media/monzo.467009d0b46e54932967.png",
     "index.html": "/index.html",
-    "main.1be9b8e7.css.map": "/static/css/main.1be9b8e7.css.map",
-    "main.8800dca9.js.map": "/static/js/main.8800dca9.js.map",
+    "main.4be2fbf9.css.map": "/static/css/main.4be2fbf9.css.map",
+    "main.d43dd332.js.map": "/static/js/main.d43dd332.js.map",
     "787.bc68d2f7.chunk.js.map": "/static/js/787.bc68d2f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1be9b8e7.css",
-    "static/js/main.8800dca9.js"
+    "static/css/main.4be2fbf9.css",
+    "static/js/main.d43dd332.js"
   ]
 }
