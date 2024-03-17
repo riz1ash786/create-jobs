@@ -18,11 +18,11 @@ const About = () => {
               <p className='py-4'>At Create Jobs we understand your needs, we source relevant candidates and help manage the recruitment process so you can concentrate on your day job! </p>
           </div>
           <div className='md:hidden'> 
-            <p className='text-gray-300 pt-8 text-center font-bold'>To learn more about Create Jobs please dowload our information pack using the button below.</p>
+            <p className='text-gray-300 pt-8 text-center font-bold'>To learn more about Create Jobs, view our company information pack by clicking the button below.</p>
           <button className='text-white group border-2 hover:bg-[#dbb434] hover:border-[#dbb434] hover:text-[#000000] px-4 py-3 my-8 mx-auto items-center flex'>
           <a
-              className='w-[190px] h-[25px] flex justify-between items-center'
-              href={pdf} download="Create Jobs Info Pack.pdf">Download Info Pack<BsBook size={30} />
+              className='w-[200px] h-[25px] flex justify-between items-center'
+              href={pdf} download="Create Jobs Info Pack.pdf">Create Jobs Info Pack<BsBook size={30} />
             </a>
           </button>
           </div>
