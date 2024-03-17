@@ -2,6 +2,8 @@ import React from 'react';
 import rocket from '../assets/rocket.png';
 import vision from '../assets/vision.png';
 import pillars from '../assets/pillars.png';
+import { BsBook } from "react-icons/bs";
+import pdf from "./create_jobs_info_pack.pdf"
 
 const Aim = () => {
   return (
@@ -29,25 +31,35 @@ const Aim = () => {
             style={{ backgroundImage: `url(${rocket})` }}
             className='shadow-lg shadow-[#040c16] mx-auto content-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>CREATE MISSION</p> <p className=' pt-2 text-center'>To connect the best talent with rewarding opportunities.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>CREATE MISSION</p> <p className=' pt-2 pb-8 text-center'>To connect the best talent with rewarding opportunities.</p>
             </div>
             <div>
               <div
             style={{ backgroundImage: `url(${vision})` }}
             className='shadow-lg shadow-[#040c16] mx-auto content-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>CREATE VISION</p><p className='pt-2 text-center'>Bridging talent to opportunity, shaping tomorrow's success.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>CREATE VISION</p><p className='pt-2 pb-8 text-center'>Bridging talent to opportunity, shaping tomorrow's success.</p>
             </div>
             <div>
             <div
             style={{ backgroundImage: `url(${pillars})` }}
             className='shadow-lg shadow-[#040c16] mx-auto content-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>CREATE VALUES</p><p className='pt-2 text-center'>To provide Integrity, Transparency and Collaboration.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>CREATE VALUES</p><p className='pt-2 pb-8 text-center'>To provide Integrity, Transparency and Collaboration.</p>
             </div>
+          </div>
+          <div className='md:hidden'> 
+            <p className='text-gray-300 pt-8 text-center'>To learn more about Create Jobs please dowload our information pack using the button below.</p>
+          <button className='text-white group border-2 hover:bg-[#dbb434] hover:border-[#dbb434] hover:text-[#000000] px-4 py-3 my-8 mx-auto items-center flex'>
+          <a
+              className='w-[190px] h-[25px] flex justify-between items-center'
+              href={pdf} download="Create Jobs Info Pack.pdf">Download Info Pack<BsBook size={30} />
+            </a>
+          </button>
           </div>
       </div>
     </div>
+    
   );
 };
 
