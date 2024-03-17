@@ -1,4 +1,6 @@
 import React from 'react';
+import { BsBook } from "react-icons/bs";
+import pdf from "./create_jobs_info_pack.pdf"
 
 const About = () => {
   return (
@@ -14,6 +16,15 @@ const About = () => {
               <p className='py-4'>We can assist in all your recruitment needs and offer a complete service from start to finish. We also strive to the challenge of recruiting for those ‘hard to fill’ roles, whether it be a niche skillset you’re seeking or individuals who are experienced in a new cutting-edge technology. Although IT recruitment is our foundation, we recruit in a variety of fields including Corporate & Finance. </p>
               <p className='py-4'>We are constantly engaging with the market and staying close to what’s going on which, helps us build relationships with both active and passive candidates. Most importantly for you it puts us in a position to represent individuals for the roles that you are hiring. Our candidate base includes individuals that other recruiters have not kept in touch with; they are not always on job boards or applying to adverts. </p>
               <p className='py-4'>At Create Jobs we understand your needs, we source relevant candidates and help manage the recruitment process so you can concentrate on your day job! </p>
+          </div>
+          <div className='md:hidden'> 
+            <p className='text-gray-300 pt-8 text-center'>To learn more about Create Jobs please dowload our information pack using the button below.</p>
+          <button className='text-white group border-2 hover:bg-[#dbb434] hover:border-[#dbb434] hover:text-[#000000] px-4 py-3 my-8 mx-auto items-center flex'>
+          <a
+              className='w-[190px] h-[25px] flex justify-between items-center'
+              href={pdf} download="Create Jobs Info Pack.pdf">Download Info Pack<BsBook size={30} />
+            </a>
+          </button>
           </div>
       </div>
     </div>
