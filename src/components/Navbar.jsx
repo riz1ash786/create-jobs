@@ -122,7 +122,7 @@ const Navbar = () => {
       <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
         <ul>
           {/* icons slide in and out and styling */}
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0A66C2]'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0e577f]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
               href='https://www.linkedin.com/company/create-jobs-recruitment/'
@@ -130,7 +130,7 @@ const Navbar = () => {
               Follow Us<FaLinkedin size={30} />
             </a>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#2b7421]'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#102820]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
               href='mailto:hello@createjobs.co.uk'
@@ -138,13 +138,13 @@ const Navbar = () => {
               Email Us <HiOutlineMail size={30} />
             </a>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#ac4581]'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#4c6444]'>
             <button
               className='flex justify-between items-center w-full text-gray-300'> <Link to='privacy' smooth={true} duration={500}>Privacy</Link>
                <HiOutlineLockClosed size={30} />
             </button>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#8a6f39]'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#8a6240]'>
           <a
               className='flex justify-between items-center w-full text-gray-300'
               href={pdf} download="Create Jobs Info Pack.pdf">Download Info Pack<BsBook size={40} />
