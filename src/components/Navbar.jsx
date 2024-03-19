@@ -17,16 +17,15 @@ const Navbar = () => {
 
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-gradient-to-r from-[#050d1c] to-[#0d8bb9] text-[#dbb434]'>
-      <div>
-        <img src={Logo} alt='Logo' style={{ width: '100px' }} />
-      </div>
+      <Link to='home' smooth={true} duration={500}>
+      <img src={Logo} alt='Logo'  style={{ width: '100px' }}/> 
+          </Link>
 
       {/* menu */}
       <ul className='hidden md:flex'>
         <li>
-          <Link to='home' smooth={true} duration={500}>
+        <Link to='home' smooth={true} duration={500}>
             Home
-            {/* Link for smooth desktop scrolling */}
           </Link>
         </li>
         <li>
