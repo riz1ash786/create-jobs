@@ -38,8 +38,9 @@ const Footer = () => {
 </div>
 <div>
 <h1 className='font-medium text-gray-500 flex'>Diversity & Inclusion</h1>
-    <p className='text-gray-300 py-2'>Our commitment to Diversity and Inclusion: Create Jobs values diversity and inclusion. 
-    We strive to connect employers with a diverse pool of talented candidates, fostering environments where all individuals can contribute and succeed.</p>
+    <p className='text-gray-300 py-2'>We value diversity and inclusion and strive to connect employers with a diverse pool of talented candidates, 
+    fostering environments where all individuals can contribute and succeed. To read more about our commitment to Diversity please click 
+    <a className='hover:text-[#dbb434] hover:font-bold' href={pdf2} download="Create Jobs Diversity & Inclusion Statement.pdf"> here.</a></p>
 </div>
 <div>
 <h1 className='font-medium text-gray-500 flex'>Services</h1>
