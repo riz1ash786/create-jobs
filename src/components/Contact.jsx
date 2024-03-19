@@ -7,7 +7,7 @@ const Contact = () => {
         <form method='POST' action="https://getform.io/f/xboMzBeg" className='flex flex-col max-w-[600px] w-full'>
             <div className='pb-8 text-center'>
                 <p className='text-4xl font-bold inline border-b-4 border-[#dbb434] text-gray-300'>Contact Us</p>
-                <p className='text-gray-300 py-8'>Submit your enquiries in the form below or contact us directly;</p>
+                <p className='text-gray-300 py-8'>Submit your inquiries in the form below or contact us directly;</p>
             </div>
             <div className='pb-8 max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-2 text-gray-300'>
             <div className='sm:text-center'>
@@ -18,7 +18,7 @@ const Contact = () => {
               href='https://www.linkedin.com/in/riz1ash786/'><FaLinkedin size={30} /></a></p>
             </div>
             <div className='sm:text-center items-center'>
-              <p>Business Enquiries</p>
+              <p>Business Inquiries</p>
               <p>Email: <a className='hover:text-[#dbb434]' href='mailto:hello@createjobs.co.uk'>hello@createjobs.co.uk</a></p>
               <p>Whatsapp: +44 7976 257860</p>
               <p><a className='pt-2 flex sm:justify-center text-gray-300 hover:text-[#dbb434]'
