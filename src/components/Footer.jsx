@@ -45,7 +45,7 @@ const Footer = () => {
 <div>
 <h1 className='font-medium text-gray-500 flex'>Services</h1>
     <p className='text-gray-300 py-2'>Create Jobs offers a wide range of recruitment services, 
-    including RPO packages, candidate sourcing, screening, interviewing, & free CV advice. To find out more get in touch, we would love to hear from you!</p>
+    including RPO packages tailored to suit your individual & organisational needs, incorporating candidate sourcing, screening & interviewing. We also offer free CV advice. To find out more get in touch, we would love to hear from you!</p>
 </div>
   </div>
   </div>
