@@ -17,8 +17,8 @@ const Footer = () => {
     <div className='w-full mx-auto grid md:grid-cols-3 py-12 px-4 gap-12 text-gray-300 bg-[#050d1c]'>
     <div>
     <h1 className='w-full text-3xl font-bold text-[#dbb434] flex '>CREATE JOBS LIMITED</h1>
-    <p className='py-4'>Thank you for visiting Create Jobs. Stay connected by following us on Linkedin for updates and industry insights. 
-    We would love to hear from you, for collaboration inquiries please get in touch at hello@createjobs.co.uk.
+    <p className='py-4'>Thank you for visiting Create Jobs. Stay connected by following us on Linkedin for updates and industry insights.
+    For collaboration inquiries please get in touch at hello@createjobs.co.uk.
     Copyright&#169; 2024 Create Jobs Limited. All rights reserved.</p>
   
   <div className='flex justify-between md:w-[75%] my-4'>
