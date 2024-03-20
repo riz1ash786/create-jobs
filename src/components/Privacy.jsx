@@ -9,7 +9,7 @@ const Privacy = () => {
       <div className='text-center max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
           <div>
               <p className='text-4xl font-bold inline border-b-4 border-[#dbb434]'>Privacy</p>
-              <p className='pt-8 text-left'>Create Jobs is committed to protecting the privacy & security of the personal information of our clients, c&idates, & website visitors. This Privacy Statement outlines how we collect, use, disclose, & protect your information.</p>
+              <p className='pt-8 text-left'>Create Jobs is committed to protecting the privacy & security of the personal information of our clients, candidates, & website visitors. This Privacy Statement outlines how we collect, use, disclose, & protect your information.</p>
               <p className='font-bold pt-6 text-left'> Information We Collect: </p>
               <p className='text-left'> We may collect various types of information from you, including:</p>
               <p className='pt-2 text-left'> 
@@ -23,7 +23,7 @@ const Privacy = () => {
               <p className='text-left'> We use the information we collect for the following purposes:</p>
               <p className='pt-2 text-left'> 
                 <ul type="lower-roman" style={{ listStyleType: 'circle' }}>
-                  <li>To provide recruitment & staffing services, including matching c&idates with job opportunities.</li>
+                  <li>To provide recruitment & staffing services, including matching candidates with job opportunities.</li>
                   <li>Information provided in your resume, cover letter, or during interviews.</li>
                   <li>Information about your preferences & interests related to job opportunities.</li>
                   <li>To comply with legal obligations & enforce our terms & policies.</li>

@@ -38,14 +38,14 @@ const Footer = () => {
 </div>
 <div>
 <h1 className='font-medium text-gray-500 flex'>Diversity & Inclusion</h1>
-    <p className='text-gray-300 py-2'>We value diversity & inclusion & strive to connect employers with a diverse pool of talented c&idates, 
+    <p className='text-gray-300 py-2'>We value diversity & inclusion & strive to connect employers with a diverse pool of talented candidates, 
     fostering environments where all individuals can contribute & succeed. To read more about our commitment to Diversity please click 
     <a className='hover:text-[#dbb434] hover:font-bold' href={pdf2} download="Create Jobs Diversity & Inclusion Statement.pdf"> here.</a></p>
 </div>
 <div>
 <h1 className='font-medium text-gray-500 flex'>Services</h1>
     <p className='text-gray-300 py-2'>Create Jobs offers a wide range of recruitment services, 
-    including c&idate sourcing, screening, interviewing, & free CV advice. To find out more get in touch, we would love to hear from you!</p>
+    including RPO packages, candidate sourcing, screening, interviewing, & free CV advice. To find out more get in touch, we would love to hear from you!</p>
 </div>
   </div>
   </div>
