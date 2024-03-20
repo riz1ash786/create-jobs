@@ -33,7 +33,7 @@ const Companies = () => {
           </div>
           </div>
           <div> 
-            <p className='text-gray-300 py-6 text-center'>We work with companies to attract and retain top-tier technical talent, driving innovation and success.</p>
+            <p className='text-gray-300 py-6 text-center'>We work with companies to attract & retain top-tier technical talent, driving innovation & success.</p>
             </div>
             <div className='pt-8 max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
             <div>
@@ -41,14 +41,14 @@ const Companies = () => {
             style={{ backgroundImage: `url(${learn})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>LEARN</p><p className='pt-2 pb-8 text-center'>Throughout your Company's journey, from inception to where you are now and where you aim to be, we strive to comprehend every aspect. Exceptional recruiters enhance brands, and we're dedicated to advocating for yours.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>LEARN</p><p className='pt-2 pb-8 text-center'>Throughout your Company's journey, from inception to where you are now & where you aim to be, we strive to comprehend every aspect. Exceptional recruiters enhance brands, & we're dedicated to advocating for yours.</p>
             </div>
             <div>
             <div
             style={{ backgroundImage: `url(${engage})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>ENGAGE</p><p className='pt-2 pb-8 text-center'>We'll ensure that your requirements are communicated effectively, reaching out to the appropriate talent. You'll only engage with candidates who meet your technical and cultural requirements.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>ENGAGE</p><p className='pt-2 pb-8 text-center'>We'll ensure that your requirements are communicated effectively, reaching out to the appropriate talent. You'll only engage with candidates who meet your technical & cultural requirements.</p>
             </div>
             <div>
             <div

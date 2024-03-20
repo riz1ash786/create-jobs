@@ -24,7 +24,7 @@ const Candidates = () => {
             style={{ backgroundImage: `url(${listen})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>LISTEN</p> <p className=' pt-2 pb-8 text-center'>We aim to understand you: your motivations, aspirations, needs, desires, preferences, and aversions. <br /> Meaningful conversations drive us forward.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>LISTEN</p> <p className=' pt-2 pb-8 text-center'>We aim to understand you: your motivations, aspirations, needs, desires, preferences, & aversions. <br /> Meaningful conversations drive us forward.</p>
             </div>
 
             <div>
@@ -39,7 +39,7 @@ const Candidates = () => {
             style={{ backgroundImage: `url(${support})` }}
             className='shadow-lg shadow-[#040c16] mx-auto profile-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>SUPPORT</p> <p className='pt-2 pb-8 text-center'>We offer our candidates valuable tips, our dedicated support ensures you're guided and informed at every step, empowering you to approach the recruitment process with confidence.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>SUPPORT</p> <p className='pt-2 pb-8 text-center'>We offer our candidates valuable tips, our dedicated support ensures you're guided & informed at every step, empowering you to approach the recruitment process with confidence.</p>
             </div>
           </div>
     </div>

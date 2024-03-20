@@ -20,7 +20,8 @@ const Aim = () => {
               <p>Create Jobs aims to fulfil the recruitment needs of our clients seeking the best technical talent</p>
             </div>
             <div>
-              <p>Our aim is to assist our clients and candidates with their company and career goals. We do this with effective and efficient recruitment methods. <br /> We are here to ease the strain caused to our clients when recruiting for staff and minimise the stress of finding a new role for our expert candidates!</p>
+              <p>Our aim is to assist our clients & candidates with their company & career goals. We do this with effective & efficient recruitment methods. 
+                <br /> We are here to ease the strain caused to our clients when recruiting for staff & minimise the stress of finding a new role for our expert candidates!</p>
             </div>
           </div>
           <div className='pt-8 max-w-[1000px] w-full grid sm:grid-cols-3 gap-8 px-4'>
@@ -43,7 +44,7 @@ const Aim = () => {
             style={{ backgroundImage: `url(${pillars})` }}
             className='shadow-lg shadow-[#040c16] mx-auto content-div mt-6 mb-6 hover:scale-110 duration-500'>
             </div>
-            <p className='pt-8 text-center text-[#dbb434]'>CREATE VALUES</p><p className='pt-2 pb-8 text-center'>To provide Integrity, Transparency and Collaboration.</p>
+            <p className='pt-8 text-center text-[#dbb434]'>CREATE VALUES</p><p className='pt-2 pb-8 text-center'>To provide Integrity, Transparency & Collaboration.</p>
             </div>
           </div>
       </div>
