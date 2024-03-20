@@ -21,7 +21,7 @@ const Footer = () => {
     For collaboration inquiries please get in touch at hello@createjobs.co.uk.
     Copyright&#169; 2024 Create Jobs Limited. All rights reserved.</p>
   
-  <div className='flex justify-between md:w-[75%] my-4'>
+  <div className='flex justify-between md:w-[75%] my-2'>
         <a href='https://twitter.com/'><FaXTwitter size={30} className='hover:text-[#dbb434]' /></a>
         <a href={pdf2} download="Create Jobs Diversity & Inclusion Statement.pdf"><MdOutlineDiversity3 size={30} className='hover:text-[#dbb434]'/></a>
         <a href='mailto:hello@createjobs.co.uk'><HiOutlineMail size={30} className='hover:text-[#dbb434]'/></a>
@@ -39,7 +39,7 @@ const Footer = () => {
 <div>
 <h1 className='font-medium text-gray-500 flex'>Diversity & Inclusion</h1>
     <p className='text-gray-300 py-2'>We value diversity and inclusion and strive to connect employers with a diverse pool of talented candidates, 
-    fostering environments where all individuals can contribute and succeed. To read more about our commitment to Diversity please click 
+    fostering environments where all individuals can contribute & succeed. To read more about our commitment to Diversity please click 
     <a className='hover:text-[#dbb434] hover:font-bold' href={pdf2} download="Create Jobs Diversity & Inclusion Statement.pdf"> here.</a></p>
 </div>
 <div>
